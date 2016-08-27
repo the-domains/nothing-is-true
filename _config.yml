@@ -1,3 +1,4 @@
+layout_spectrum: 0.8191178487613797
 typography_spectrum: 0.5229790885932744
 color:
   brandStrength: 0.274872844805941
@@ -10,7 +11,4 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-layout_spectrum: 0.8191178487613797
 name: nothing is true
-title: I'm Jeremy
-description: nice to meet you!
