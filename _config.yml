@@ -1,0 +1,14 @@
+layout_spectrum: 0.8191178487613797
+typography_spectrum: 0.5229790885932744
+color:
+  brandStrength: 0.274872844805941
+  lightness: 0.08290843456052244
+  saturation: 0.780672115040943
+  rhythmicContrast: 0.5058956008870155
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: nothing is true
